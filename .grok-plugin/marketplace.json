@@ -403,7 +403,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/trayoai/trayo-plugin.git",
-        "sha": "db193194694d3666db8fb2ff9104b4a0b825abb7",
+        "sha": "91fcf42bb20058bbddbfe89ca66fee9db53a6dcb",
         "path": "trayo"
       },
       "homepage": "https://www.trayo.ai/mcp/",

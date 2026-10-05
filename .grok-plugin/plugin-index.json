@@ -1167,8 +1167,8 @@
       }
     },
     "trayo": {
-      "sha": "db193194694d3666db8fb2ff9104b4a0b825abb7",
-      "version": "0.6.12",
+      "sha": "91fcf42bb20058bbddbfe89ca66fee9db53a6dcb",
+      "version": "0.6.13",
       "components": {
         "mcpServers": [
           {
